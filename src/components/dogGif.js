@@ -12,7 +12,7 @@ return (
           <img class="img-fluid rounded mx-auto d-block" src= {props.dogGif} />
           <div>
             <p class="card-text mx-auto mt-3">Welcome to dog.display() a simple frontend for some of the API services from the <a href ='https://thedogapi.com/' target ='_blank'>thedogapi.com/</a>.</p>
-            <p class="card-text mx-auto mt-3">The site is built with <a href='https://reactjs.org/' target='_blank'>React</a> and <a href='https://getbootstrap.com/' target='_blank'>Bootstrap</a>.</p>
+            <p class="card-text mx-auto mt-3">The site is built with <a href='https://reactjs.org/' target='_blank'>React</a>, <a href='https://getbootstrap.com/' target='_blank'>Bootstrap</a> and <a href='https://nodejs.org/' target='_blank'>Node.js</a>.</p>
             <p class="card-text mx-auto mt-3">The site is a work in progress and new features will be added in the coming weeks.</p>
 
             </div>

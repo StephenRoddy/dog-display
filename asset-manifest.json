@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dog-display/static/css/main.d6791130.chunk.css",
+    "main.js": "/dog-display/static/js/main.fa612c38.chunk.js",
+    "main.js.map": "/dog-display/static/js/main.fa612c38.chunk.js.map",
+    "runtime-main.js": "/dog-display/static/js/runtime-main.5a240f5f.js",
+    "runtime-main.js.map": "/dog-display/static/js/runtime-main.5a240f5f.js.map",
+    "static/js/2.ec16d615.chunk.js": "/dog-display/static/js/2.ec16d615.chunk.js",
+    "static/js/2.ec16d615.chunk.js.map": "/dog-display/static/js/2.ec16d615.chunk.js.map",
+    "index.html": "/dog-display/index.html",
+    "precache-manifest.83b900bea2a05663f64fca22ec4361de.js": "/dog-display/precache-manifest.83b900bea2a05663f64fca22ec4361de.js",
+    "service-worker.js": "/dog-display/service-worker.js",
+    "static/css/main.d6791130.chunk.css.map": "/dog-display/static/css/main.d6791130.chunk.css.map",
+    "static/js/2.ec16d615.chunk.js.LICENSE.txt": "/dog-display/static/js/2.ec16d615.chunk.js.LICENSE.txt",
+    "static/media/frodo.jpg": "/dog-display/static/media/frodo.08b25072.jpg",
+    "static/media/logo.png": "/dog-display/static/media/logo.37a6c544.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a240f5f.js",
+    "static/js/2.ec16d615.chunk.js",
+    "static/css/main.d6791130.chunk.css",
+    "static/js/main.fa612c38.chunk.js"
+  ]
+}
